@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Напоминалка</string>
+    <string name="action_settings">Настройки</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_editing_title">Изменить задание</string>
+    <string name="dialog_error_empty_title">Обязательное поле для заполнения.</string>
+    <string name="dialog_ok">ОК</string>
+    <string name="dialog_removing_message">Уверен что хочешь удалить?</string>
+    <string name="dialog_title">Добавление задания</string>
+    <string name="do_not_show_splash">Не показывать заставку</string>
+    <string name="done_task">Завершенные</string>
+    <string name="removed">Удалено</string>
+    <string name="current_task">Текущие</string>
+    <string name="hello_world">Привет мир!</string>
+
+    <string-array name="priority_levels">
+        <item>Низкий приоритет</item>
+        <item>Нормальный приоритет</item>
+        <item>Высокий приоритет</item>
+    </string-array>
+
+    <string name="separator_today">Сегодня</string>
+    <string name="separator_tomorrow">Завтра</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+    <string name="task_title">Заголовок</string>
+    <string name="separator_overdue">Простроченные</string>
+    <string name="separator_future">Будущие</string>
+</resources>
